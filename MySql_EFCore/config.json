@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "MySqlConnectionString": "server=localhost;userid= ;password= ;" //DO NOT USE!
+  }
+}
