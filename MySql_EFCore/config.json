@@ -1,5 +1,5 @@
 ﻿{
   "ConnectionStrings": {
-    "MySqlConnectionString": "server=localhost;userid= ;password= ;" //DO NOT USE!
+    "MySqlConnectionString": "@'server=localhost;userid={dbuser} ;password={dbpass};'" //NOT USED!
   }
 }
